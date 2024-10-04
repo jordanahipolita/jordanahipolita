@@ -21,6 +21,22 @@
 
 </div>
 
+<br>
+
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/45fb9e4c-29c4-4aff-bab6-1b6838763294">
+
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/ff3cb33b-408e-4b19-9c72-abf94c2cdcd1">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/46a41a49-6971-4796-a67b-9a3871258a5c">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a46744b8-1ed4-412b-be88-ee8f71bbadfb">
+
+
+</div>
+
+
 <div align="center" >
 
 <div align="center" >
