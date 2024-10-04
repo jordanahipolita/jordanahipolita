@@ -8,6 +8,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jordanahipolita&theme=onedark-duo)](https://git.io/streak-stats)
 
 
+<div align="center"> 
+<a href="https://www.instagram.com/jordanastudy?igsh=MWRjbGhieGF0YzllcA==" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/e11d8a78-9d8a-41d9-91a8-c848c0fa827b">
+
+</a>
+
+<a  href="https://www.linkedin.com/in/jordana-hipolita-7711b025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/800d33ca-24c2-41b1-80aa-fe07e908c8a4">
+
+</a>
+
+</div>
+
+<div align="center" >
 
 <div align="center" >
    
