@@ -1,10 +1,11 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/6f615b2d-38fe-44f3-9423-2673ff86981c"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/bfcd2b32-d88c-4cea-9793-89db084ea860"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=040E13&width=435&lines=Hello%2C+my+name+is+Jordana+Hipolita;I'm+21+years+old)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFC3CA&width=435&lines=Hi%2C+my+name+is+Jordana+Hipolita;I'm+22+years+old;Frontend+Developer;And+taking+risks+as+a+fullstack)](https://git.io/typing-svg)
 
 <div align="center"> 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jordanahipolita&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jordanahipolita&theme=onedark-duo)](https://git.io/streak-stats)
 
 
 
