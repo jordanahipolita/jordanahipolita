@@ -1,45 +1,123 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/bfcd2b32-d88c-4cea-9793-89db084ea860"/>
+# 👩🏾‍💻 Jordana Hipólita
 
+**`Desenvolvedora FullStack`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFC3CA&width=435&lines=Hi%2C+my+name+is+Jordana+Hipolita;I'm+22+years+old;Frontend+Developer;And+taking+risks+as+a+fullstack)](https://git.io/typing-svg)
+Me chamo Jordana Hipólita , tenho 22 anos e sou natural de Goiânia.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas . Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no instagram (https://www.instagram.com/jordana.dev/)". onde ensino a criar projetos web.
 
-<div align="center"> 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jordanahipolita&theme=onedark-duo)](https://git.io/streak-stats)
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-<div align="center"> 
-<a href="https://www.instagram.com/jordanastudy?igsh=MWRjbGhieGF0YzllcA==" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/e11d8a78-9d8a-41d9-91a8-c848c0fa827b">
-
-</a>
-
-<a  href="https://www.linkedin.com/in/jordana-hipolita-7711b025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/800d33ca-24c2-41b1-80aa-fe07e908c8a4">
-
-</a>
-
-</div>
-
-<br>
-
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/45fb9e4c-29c4-4aff-bab6-1b6838763294">
-
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/ff3cb33b-408e-4b19-9c72-abf94c2cdcd1">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/46a41a49-6971-4796-a67b-9a3871258a5c">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a46744b8-1ed4-412b-be88-ee8f71bbadfb">
-
-
-</div>
-
-
-<div align="center" >
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
+<br/>
+<br/>
