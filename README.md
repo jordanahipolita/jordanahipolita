@@ -16,7 +16,7 @@ Sempre explorando novas formas de otimizar decisões e gerar impacto real.
     title="Powerbi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://logo-marque.com/wp-content/uploads/2022/01/Power-BI-Embleme.jpg" 
+    src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" 
 />
 
 
