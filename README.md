@@ -1,8 +1,12 @@
 # 👩🏾‍💻 Jordana Hipólita
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados | IA | Automação`**
 
-Me chamo Jordana Hipólita , tenho 22 anos e sou natural de Goiânia.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas . Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no instagram (https://www.instagram.com/jordana.dev/)". onde ensino a criar projetos web.
+Transformo dados em insights e soluções inteligentes.  
+Experiência em Python, SQL, Machine Learning e visualização de dados.  
+Foco em automação de processos e aplicação prática de inteligência artificial.  
+Sempre explorando novas formas de otimizar decisões e gerar impacto real.  
+
 
 ### 🤖 Linguagens e Tecnologias
 
