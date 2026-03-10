@@ -12,6 +12,16 @@ Sempre explorando novas formas de otimizar decisões e gerar impacto real.
 
 <img 
     align="left" 
+    alt="Powerbi" 
+    title="Powerbi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logo-marque.com/wp-content/uploads/2022/01/Power-BI-Embleme.jpg" 
+/>
+
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
